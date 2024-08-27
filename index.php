@@ -13,8 +13,8 @@
     <div class="banner">
         <div class="jumbotron jumbotron-video text-center bg-dark mb-0 rounded-0">
             <video width="100%" preload="auto" loop autoplay muted>
-                <source src='assets/media/explore.mp4' type='video/mp4' />
-                <source src='assets/media/explore.webm' type='video/webm' />
+                <source src='assets/media/Food slow motion.mp4' type='video/mp4' />
+                <source src='assets/media/Food slow motion.webm' type='video/webm' />
             </video>
             <div class="container">
                 <h1 class="pt-5">
